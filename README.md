@@ -2,7 +2,7 @@
 
 I find patterns in places most people forget to look.
 
-Currently pursuing MSc Statistics & Data Science at NMIMS Mumbai (CGPA 9.7) and BS Management & Data Science at IIT Madras — not because I had to pick one, but because the intersection is where things get interesting.
+Currently pursuing MSc Statistics & Data Science at NMIMS Mumbai and BS Management & Data Science at IIT Madras  not because I had to pick one, but because the intersection is where things get interesting.
 
 ---
 
