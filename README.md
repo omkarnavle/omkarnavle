@@ -29,7 +29,7 @@ Statistics isn't just a degree to me — it's a lens. I'm drawn to the kind of p
 
 ## A few things worth mentioning
 
-🥇 Won Best Research Paper at a National Conference (Dec 2024) — on statistical methods in financial crime detection  
+🥇 Won Best Research Paper at a National Conference (Dec 2024) on statistical methods in financial crime detection  
 📐 Applied Taguchi's Design of Experiments to Black-Scholes option pricing on live NSE data  
 📊 Built MIS dashboards at NKGSB Co-op Bank that went straight to management review  
 📋 Surveyed 500+ people and ran hypothesis tests to study perceptions of India's NEP 2020
@@ -39,7 +39,7 @@ Statistics isn't just a degree to me — it's a lens. I'm drawn to the kind of p
 ## Currently thinking about
 
 → How far statistical theory can be pushed in the age of LLMs  
-→ Where classical inference and modern ML actually agree — and where they don't  
+→ Where classical inference and modern ML actually agree and where they don't  
 → Quantitative research at the edge of finance and AI  
 
 ---
