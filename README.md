@@ -8,7 +8,7 @@ Currently pursuing MSc Statistics & Data Science at NMIMS Mumbai and BS Manageme
 
 ## What I'm actually about
 
-Statistics isn't just a degree to me ,it's a lens. I'm drawn to the kind of problems where the math is hard, the data is messy, and the answer genuinely matters. Right now that means:
+Statistics isn't just a degree to me , it's a lens. I'm drawn to the kind of problems where the math is hard, the data is messy, and the answer genuinely matters. Right now that means:
 
 - **Statistical theory & inference** : the foundations that make everything else trustworthy
 - **Machine learning** : where classical stats meets modern computation
