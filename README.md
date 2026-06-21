@@ -1,4 +1,4 @@
-i# Omkar Navle
+Omkar Navle
 
 I find patterns in places most people forget to look.
 
